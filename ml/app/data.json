@@ -1,0 +1,27 @@
+[
+    {
+      "sentiment": "romantic",
+      "location": "India",
+      "destination": "Udaipur",
+      "region": "Rajasthan",
+      "estimated_cost": 18000,
+      "description": "Romantic lakeside palaces and boat rides"
+    },
+    {
+      "sentiment": "adventurous",
+      "location": "India",
+      "destination": "Rishikesh",
+      "region": "Uttarakhand",
+      "estimated_cost": 15000,
+      "description": "White water rafting and camping under the stars"
+    },
+    {
+      "sentiment": "relaxed",
+      "location": "India",
+      "destination": "Goa",
+      "region": "Goa",
+      "estimated_cost": 22000,
+      "description": "Beaches, shacks, and chill seaside vibes"
+    }
+  ]
+  
