@@ -1,3 +1,5 @@
 /node_modules
 venv/
 ml/venv/
+ml/app/__pycache__/
+__pycache__/
